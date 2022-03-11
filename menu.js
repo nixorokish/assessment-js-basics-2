@@ -184,10 +184,11 @@ console.log(`Problem 5:`)
 */
 
 //CODE HERE
-const filterByProperty = (property, number, type) => {
-    let filteredArr = foodArr.filter(find)
+// const filterByProperty = (property, number, type) => {
+//     let filteredArr = foodArr.filter(find)
 
-}
+// }
+// i don't know
 
 /*
     Invoke the `filterByProperty` function passing
@@ -197,3 +198,6 @@ const filterByProperty = (property, number, type) => {
 */
 
 //CODE HERE
+//i don't know
+
+console.log(sep)
